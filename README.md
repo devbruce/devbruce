@@ -61,7 +61,15 @@
 </thead>
 <tbody>
   <tr>
-    <td rowspan="2"><a href="https://riiid.com/" target="_blank" rel="noopener noreferrer">Riiid</a></td>
+    <td rowspan="2">
+      <img src="https://media.licdn.com/dms/image/C560BAQFcHdpuRmIARg/company-logo_100_100/0/1647568154021/riiidlabs_logo?e=1720051200&v=beta&t=_zDz6vHY2F8NKxq_GJhYya5ZBPmU_VRJX1OOu9KDLPk"
+          height="20px"
+          align="center"
+          alt="Riiid Logo"
+          title="Riiid Logo"
+      />
+      <a href="https://riiid.com/" target="_blank" rel="noopener noreferrer">Riiid</a>
+    </td>
     <td>DevOps Engineer</td>
     <td><i>2024.02 ~ current</i></td>
   </tr>
@@ -70,12 +78,28 @@
     <td><i>2023.03 ~ 2024.02</i></td>
   </tr>
   <tr>
-    <td><a href="https://www.wadiz.kr/" target="_blank" rel="noopener noreferrer">wadiz</a></td>
+    <td>
+      <img src="https://media.licdn.com/dms/image/C560BAQGZxbmcHU-spg/company-logo_200_200/0/1630645742695/wadiz_logo?e=1720051200&v=beta&t=GqRCYKx1EZwBM7vqsnUvfvCn92ObjS5is1AHyf2oQpk"
+          height="20px"
+          align="center"
+          alt="wadiz Logo"
+          title="wadiz Logo"
+      />
+      <a href="https://www.wadiz.kr/" target="_blank" rel="noopener noreferrer">wadiz</a>
+    </td>
     <td>AI Engineer</td>
     <td><i>2022.03 ~ 2023.03</i></td>
   </tr>
   <tr>
-    <td rowspan="2"><a href="https://www.aimmo.ai/" target="_blank" rel="noopener noreferrer">AIMMO</a></td>
+    <td rowspan="2">
+      <img src="https://media.licdn.com/dms/image/D560BAQFnP2VerB3UAA/company-logo_200_200/0/1664934894455/aimmo_logo?e=1720051200&v=beta&t=mMHEqAS_z4VhRCwcoDsGanvLbVXZJmENI_UGczmS4Qc"
+          height="20px"
+          align="center"
+          alt="AIMMO Logo"
+          title="AIMMO Logo"
+      />
+      <a href="https://www.aimmo.ai/" target="_blank" rel="noopener noreferrer">AIMMO</a>
+    </td>
     <td>Data Scientist</td>
     <td><i>2019.12 ~ 2022.02</i></td>
   </tr>
