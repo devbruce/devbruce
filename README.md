@@ -71,7 +71,7 @@
       <a href="https://riiid.com/" target="_blank" rel="noopener noreferrer">Riiid</a>
     </td>
     <td>DevOps Engineer</td>
-    <td><i>2024.02 ~ current</i></td>
+    <td><i>2024.02 ~ 2024.04</i></td>
   </tr>
   <tr>
     <td>Machine Learning Engineer</td>
