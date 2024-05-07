@@ -61,6 +61,19 @@
 </thead>
 <tbody>
   <tr>
+    <td>
+      <img src="https://media.licdn.com/dms/image/C560BAQG1ET5_q7b3Mg/company-logo_200_200/0/1630651552900/42dot_logo?e=1723075200&v=beta&t=AqQQw-RhLSx8cE76cSjwlIqhJMHe0I_Ofv6c3v4NOlM"
+          height="20px"
+          align="center"
+          alt="42dot Logo"
+          title="42dot Logo"
+      />
+      <a href="https://42dot.ai/" target="_blank" rel="noopener noreferrer">42dot</a>
+    </td>
+    <td>Backend Engineer</td>
+    <td><i>2024.05 ~ current</i></td>
+  </tr>
+  <tr>
     <td rowspan="2">
       <img src="https://media.licdn.com/dms/image/C560BAQFcHdpuRmIARg/company-logo_100_100/0/1647568154021/riiidlabs_logo?e=1720051200&v=beta&t=_zDz6vHY2F8NKxq_GJhYya5ZBPmU_VRJX1OOu9KDLPk"
           height="20px"
