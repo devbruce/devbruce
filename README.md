@@ -62,7 +62,7 @@
 <tbody>
   <tr>
     <td>
-      <img src="https://media.licdn.com/dms/image/C560BAQG1ET5_q7b3Mg/company-logo_200_200/0/1630651552900/42dot_logo?e=1723075200&v=beta&t=AqQQw-RhLSx8cE76cSjwlIqhJMHe0I_Ofv6c3v4NOlM"
+      <img src="https://media.licdn.com/dms/image/C560BAQG1ET5_q7b3Mg/company-logo_100_100/0/1630651552900/42dot_logo?e=1728518400&v=beta&t=jjezbUFajLnBoUk5DRoi4-XCNQP-43j_BdVbhFyUO_M"
           height="20px"
           align="center"
           alt="42dot Logo"
@@ -75,7 +75,7 @@
   </tr>
   <tr>
     <td rowspan="2">
-      <img src="https://media.licdn.com/dms/image/C560BAQFcHdpuRmIARg/company-logo_100_100/0/1647568154021/riiidlabs_logo?e=1720051200&v=beta&t=_zDz6vHY2F8NKxq_GJhYya5ZBPmU_VRJX1OOu9KDLPk"
+      <img src="https://media.licdn.com/dms/image/C560BAQFcHdpuRmIARg/company-logo_100_100/0/1647568154021/riiidlabs_logo?e=1728518400&v=beta&t=RTjs7FUzOHKJsJc-r_fKL_1I_QCFBbYcKgK-gYZYNYY"
           height="20px"
           align="center"
           alt="Riiid Logo"
@@ -92,7 +92,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://media.licdn.com/dms/image/C560BAQGZxbmcHU-spg/company-logo_200_200/0/1630645742695/wadiz_logo?e=1720051200&v=beta&t=GqRCYKx1EZwBM7vqsnUvfvCn92ObjS5is1AHyf2oQpk"
+      <img src="https://media.licdn.com/dms/image/C560BAQGZxbmcHU-spg/company-logo_100_100/0/1630645742695/wadiz_logo?e=1728518400&v=beta&t=OFPrK160aKpceupeAlbAZuJifCAzGslWSEGh0QbTfSw"
           height="20px"
           align="center"
           alt="wadiz Logo"
@@ -105,7 +105,7 @@
   </tr>
   <tr>
     <td rowspan="2">
-      <img src="https://media.licdn.com/dms/image/D560BAQFnP2VerB3UAA/company-logo_200_200/0/1664934894455/aimmo_logo?e=1720051200&v=beta&t=mMHEqAS_z4VhRCwcoDsGanvLbVXZJmENI_UGczmS4Qc"
+      <img src="https://media.licdn.com/dms/image/D560BAQFnP2VerB3UAA/company-logo_100_100/0/1664934894455/aimmo_logo?e=1728518400&v=beta&t=PYIlB19eeny6eTzJwjrTzb9rWIhWQ3vLT6UDkSB3bu8"
           height="20px"
           align="center"
           alt="AIMMO Logo"
