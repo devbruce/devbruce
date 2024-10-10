@@ -62,7 +62,7 @@
 <tbody>
   <tr>
     <td>
-      <img src="https://media.licdn.com/dms/image/C560BAQG1ET5_q7b3Mg/company-logo_100_100/0/1630651552900/42dot_logo?e=1728518400&v=beta&t=jjezbUFajLnBoUk5DRoi4-XCNQP-43j_BdVbhFyUO_M"
+      <img src="https://media.licdn.com/dms/image/v2/C560BAQG1ET5_q7b3Mg/company-logo_200_200/company-logo_200_200/0/1630651552900/42dot_logo?e=1736380800&v=beta&t=FzT2poTBydNRmbDqVYg9ROeBcGMQj_vNZI9KzIPHP5c"
           height="20px"
           align="center"
           alt="42dot Logo"
@@ -75,7 +75,7 @@
   </tr>
   <tr>
     <td rowspan="2">
-      <img src="https://media.licdn.com/dms/image/C560BAQFcHdpuRmIARg/company-logo_100_100/0/1647568154021/riiidlabs_logo?e=1728518400&v=beta&t=RTjs7FUzOHKJsJc-r_fKL_1I_QCFBbYcKgK-gYZYNYY"
+      <img src="https://media.licdn.com/dms/image/v2/C560BAQFcHdpuRmIARg/company-logo_200_200/company-logo_200_200/0/1647568154021/riiidlabs_logo?e=1736380800&v=beta&t=edrv9JpRQMhfcsscz_X2ZE8peS7ryQHC0ybr3-164-I"
           height="20px"
           align="center"
           alt="Riiid Logo"
@@ -92,7 +92,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://media.licdn.com/dms/image/C560BAQGZxbmcHU-spg/company-logo_100_100/0/1630645742695/wadiz_logo?e=1728518400&v=beta&t=OFPrK160aKpceupeAlbAZuJifCAzGslWSEGh0QbTfSw"
+      <img src="https://media.licdn.com/dms/image/v2/C560BAQGZxbmcHU-spg/company-logo_200_200/company-logo_200_200/0/1630645742695/wadiz_logo?e=1736380800&v=beta&t=P9Z0scM2Tcl8hIZQcaFEZva-F9DbiLjgjhue9x658ic"
           height="20px"
           align="center"
           alt="wadiz Logo"
@@ -105,7 +105,7 @@
   </tr>
   <tr>
     <td rowspan="2">
-      <img src="https://media.licdn.com/dms/image/D560BAQFnP2VerB3UAA/company-logo_100_100/0/1664934894455/aimmo_logo?e=1728518400&v=beta&t=PYIlB19eeny6eTzJwjrTzb9rWIhWQ3vLT6UDkSB3bu8"
+      <img src="https://media.licdn.com/dms/image/v2/D560BAQFnP2VerB3UAA/company-logo_200_200/company-logo_200_200/0/1664934894455/aimmo_logo?e=1736380800&v=beta&t=KbFHMFZ8IR5w5JSEE4-7qLZBSFSx-hUPM_0Sa6qPX7E"
           height="20px"
           align="center"
           alt="AIMMO Logo"
