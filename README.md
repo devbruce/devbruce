@@ -62,6 +62,19 @@
 <tbody>
   <tr>
     <td>
+      <img src="https://media.licdn.com/dms/image/v2/C510BAQH1andmanaP8w/company-logo_100_100/company-logo_100_100/0/1630569032546?e=1740009600&v=beta&t=icZsfVrJwKuAgOzA7-kmXRFsVVjBtHgJMILs0ke-ddo"
+          height="20px"
+          align="center"
+          alt="NEXON KOREA Logo"
+          title="NEXON KOREA Logo"
+      />
+      <a href="https://www.nexon.com/" target="_blank" rel="noopener noreferrer">NEXON KOREA</a>
+    </td>
+    <td>Backend Engineer</td>
+    <td><i>2024.11 ~ current</i></td>
+  </tr>
+  <tr>
+    <td>
       <img src="https://media.licdn.com/dms/image/v2/C560BAQG1ET5_q7b3Mg/company-logo_100_100/company-logo_100_100/0/1630651552900/42dot_logo?e=1740009600&v=beta&t=Y6vCTLwzo1R0Io8qMdxfCP4SEhxC5KsFcHHERUCkws4"
           height="20px"
           align="center"
@@ -71,7 +84,7 @@
       <a href="https://42dot.ai/" target="_blank" rel="noopener noreferrer">42dot</a>
     </td>
     <td>Backend Engineer</td>
-    <td><i>2024.05 ~ current</i></td>
+    <td><i>2024.05 ~ 2024.11</i></td>
   </tr>
   <tr>
     <td rowspan="2">
