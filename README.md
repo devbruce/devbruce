@@ -43,7 +43,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=devbruce&show_icons=true&theme=buefy&hide_title=true&rank_icon=github&hide_border=false"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=devbruce&show_icons=true&theme=github_dark&hide_title=true&rank_icon=github&hide_border=false" alt="footer"
+    <img src="https://github-readme-stats.vercel.app/api?username=devbruce&show_icons=true&theme=github_dark&hide_title=true&rank_icon=github&hide_border=false" alt="stats"
     />
 </picture>
 
@@ -139,7 +139,7 @@
 <br>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=devbruce&color=brightgreen&style=flat-square&label=Views" />
+    <img src="https://komarev.com/ghpvc/?username=devbruce&color=brightgreen&style=flat-square&label=Views" alt="views" />
 </div>
 
 <picture>
@@ -151,6 +151,6 @@
     srcset="https://capsule-render.vercel.app/api?type=waving&color=0F3C64&section=footer"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0F3C64&section=footer"
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0F3C64&section=footer" alt="footer"
     />
 </picture>
