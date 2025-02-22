@@ -62,7 +62,7 @@
 <tbody>
   <tr>
     <td>
-      <img src="https://media.licdn.com/dms/image/v2/C510BAQH1andmanaP8w/company-logo_100_100/company-logo_100_100/0/1630569032546?e=1740009600&v=beta&t=icZsfVrJwKuAgOzA7-kmXRFsVVjBtHgJMILs0ke-ddo"
+      <img src="./logos/nexon_korea.jpeg"
           height="20px"
           align="center"
           alt="NEXON KOREA Logo"
@@ -75,7 +75,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://media.licdn.com/dms/image/v2/C560BAQG1ET5_q7b3Mg/company-logo_100_100/company-logo_100_100/0/1630651552900/42dot_logo?e=1740009600&v=beta&t=Y6vCTLwzo1R0Io8qMdxfCP4SEhxC5KsFcHHERUCkws4"
+      <img src="./logos/42dot.jpeg"
           height="20px"
           align="center"
           alt="42dot Logo"
@@ -88,7 +88,7 @@
   </tr>
   <tr>
     <td rowspan="2">
-      <img src="https://media.licdn.com/dms/image/v2/C560BAQFcHdpuRmIARg/company-logo_100_100/company-logo_100_100/0/1647568154021/riiidlabs_logo?e=1740009600&v=beta&t=wuu0S9M4pz54ckoG0Qj6OYheqNatIpKok5GWvIYEvus"
+      <img src="./logos/riiid.jpeg"
           height="20px"
           align="center"
           alt="Riiid Logo"
@@ -105,7 +105,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://media.licdn.com/dms/image/v2/C560BAQGZxbmcHU-spg/company-logo_100_100/company-logo_100_100/0/1630645742695/wadiz_logo?e=1740009600&v=beta&t=aeeK-caMhsZPr_gWdZu-0MxSS8R7jh5Z3R5Y2tfbnMU"
+      <img src="./logos/wadiz.jpeg"
           height="20px"
           align="center"
           alt="wadiz Logo"
@@ -118,7 +118,7 @@
   </tr>
   <tr>
     <td rowspan="2">
-      <img src="https://media.licdn.com/dms/image/v2/D560BAQFnP2VerB3UAA/company-logo_100_100/company-logo_100_100/0/1664934894455/aimmo_logo?e=1740009600&v=beta&t=TtDpzI-OOtTnQg0bzp7lKTJ8aTn4tZEFedYDmTHHpCc"
+      <img src="./logos/aimmo.jpeg"
           height="20px"
           align="center"
           alt="AIMMO Logo"
