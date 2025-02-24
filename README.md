@@ -68,7 +68,7 @@
           alt="NEXON KOREA Logo"
           title="NEXON KOREA Logo"
         />
-        <a href="https://www.nexon.com/" target="_blank" rel="noopener noreferrer">NEXON KOREA</a>
+        <a href="https://company.nexon.com/" target="_blank" rel="noopener noreferrer">NEXON KOREA</a>
       </td>
       <td>Backend Engineer</td>
       <td>
