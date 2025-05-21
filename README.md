@@ -72,7 +72,7 @@
       </td>
       <td>Backend Engineer</td>
       <td>
-        <i>2024.11 ~ current</i>
+        <i>2024.11 ~ 2025.05</i>
       </td>
     </tr>
     <tr>
