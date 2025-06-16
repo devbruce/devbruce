@@ -62,6 +62,21 @@
   <tbody>
     <tr>
       <td>
+        <img src="./logos/kream_logo.jpeg"
+          height="20px"
+          align="center"
+          alt="KREAM Corporation Logo"
+          title="KREAM Corporation Logo"
+        />
+        <a href="https://www.kreamcorp.com/" target="_blank" rel="noopener noreferrer">KREAM</a>
+      </td>
+      <td>Backend Engineer</td>
+      <td>
+        <i>2025.06 ~ Current</i>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <img src="./logos/nexon_korea.jpeg"
           height="20px"
           align="center"
