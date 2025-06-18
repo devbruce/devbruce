@@ -12,7 +12,7 @@
 </picture>
 
 <div align="center">
-  <a href="mailto:bruce93k@gmail.com">
+  <a href="mailto:dev.brucekim@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white" alt="email" />
   </a>
   <a href="https://www.linkedin.com/in/devbruce/">
