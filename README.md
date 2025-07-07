@@ -63,7 +63,7 @@
     <tr>
       <td>
         <img src="./logos/kream_logo.jpeg"
-          height="20px"
+          height="20"
           align="center"
           alt="KREAM Corporation Logo"
           title="KREAM Corporation Logo"
@@ -78,7 +78,7 @@
     <tr>
       <td>
         <img src="./logos/nexon_korea.jpeg"
-          height="20px"
+          height="20"
           align="center"
           alt="NEXON KOREA Logo"
           title="NEXON KOREA Logo"
@@ -93,7 +93,7 @@
     <tr>
       <td>
         <img src="./logos/42dot.jpeg"
-          height="20px"
+          height="20"
           align="center"
           alt="42dot Logo"
           title="42dot Logo"
@@ -108,7 +108,7 @@
     <tr>
       <td rowspan="2">
         <img src="./logos/riiid.jpeg"
-          height="20px"
+          height="20"
           align="center"
           alt="Riiid Logo"
           title="Riiid Logo"
@@ -129,7 +129,7 @@
     <tr>
       <td>
         <img src="./logos/wadiz.jpeg"
-          height="20px"
+          height="20"
           align="center"
           alt="wadiz Logo"
           title="wadiz Logo"
@@ -144,7 +144,7 @@
     <tr>
       <td rowspan="2">
         <img src="./logos/aimmo.jpeg"
-          height="20px"
+          height="20"
           align="center"
           alt="AIMMO Logo"
           title="AIMMO Logo"
