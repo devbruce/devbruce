@@ -62,13 +62,13 @@
   <tbody>
     <tr>
       <td>
-        <img src="./logos/kream_logo.jpeg"
+        <img src="./logos/kream.jpeg"
           height="20"
           align="center"
           alt="KREAM Corporation Logo"
           title="KREAM Corporation Logo"
         />
-        <a href="https://www.kreamcorp.com/" target="_blank" rel="noopener noreferrer">KREAM</a>
+        <a href="https://www.kreamcorp.com/" target="_blank" rel="noopener noreferrer">KREAM Corporation</a>
       </td>
       <td>Backend Engineer</td>
       <td>
@@ -113,7 +113,16 @@
           alt="Riiid Logo"
           title="Riiid Logo"
         />
-        <a href="https://riiid.com/" target="_blank" rel="noopener noreferrer">Riiid</a>
+        <a href="https://socra.ai/" target="_blank" rel="noopener noreferrer">Riiid</a>
+        <br>
+        (currently
+        <img src="./logos/socra_ai.jpeg"
+          height="20"
+          align="center"
+          alt="Socra AI Logo"
+          title="Socra AI Logo"
+        />
+        <a href="https://socra.ai/" target="_blank" rel="noopener noreferrer">Socra AI)</a>
       </td>
       <td>DevOps Engineer</td>
       <td>
@@ -157,7 +166,7 @@
       </td>
     </tr>
     <tr>
-      <td>Data Scientist Intern</td>
+      <td>Data Scientist, Intern</td>
       <td>
         <i>2019.09 ~ 2019.11</i>
       </td>
