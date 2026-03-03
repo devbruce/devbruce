@@ -34,21 +34,6 @@
 
 <br>
 
-<picture>
-  <source
-  srcset="https://github-readme-stats.vercel.app/api?username=devbruce&show_icons=true&theme=github_dark&hide_title=true&rank_icon=github&hide_border=false"
-  media="(prefers-color-scheme: dark)"
-  />
-  <source
-  srcset="https://github-readme-stats.vercel.app/api?username=devbruce&show_icons=true&theme=buefy&hide_title=true&rank_icon=github&hide_border=false"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=devbruce&show_icons=true&theme=github_dark&hide_title=true&rank_icon=github&hide_border=false" alt="stats"
-  />
-</picture>
-
-<br>
-
 <h2>🎞 Career</h2>
 
 <table>
