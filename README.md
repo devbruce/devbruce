@@ -98,7 +98,7 @@
           alt="Riiid Logo"
           title="Riiid Logo"
         />
-        <a href="https://socra.ai/" target="_blank" rel="noopener noreferrer">Riiid</a>
+        <a href="https://corp.socra.ai/" target="_blank" rel="noopener noreferrer">Riiid</a>
         <br>
         (currently
         <img src="./logos/socra_ai.jpeg"
@@ -107,7 +107,7 @@
           alt="Socra AI Logo"
           title="Socra AI Logo"
         />
-        <a href="https://socra.ai/" target="_blank" rel="noopener noreferrer">Socra AI)</a>
+        <a href="https://corp.socra.ai/" target="_blank" rel="noopener noreferrer">Socra AI)</a>
       </td>
       <td>DevOps Engineer</td>
       <td>
